@@ -1,0 +1,47 @@
+/* 
+   Topics: OOPs Basics
+   ----------------------------------------------------------------------------------
+
+   Abouts OOPs:
+    - Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. 
+
+    - It simplifies the software development and maintenance by providing some concepts:
+       1. Class
+       2. Objects
+       3. Abstraction
+       4. Encapsulation
+       5. Inheritance
+       6. Polymorphism
+
+    - Advantage of OOPs over Procedure-oriented programming language
+       - OOPs makes development and maintenance easier where as in Procedure-oriented programming language
+         it is not easy to manage if code grows as project size grows.
+       - OOPs provide data hiding whereas in Procedure-oriented programming language a global data can be 
+         accessed from anywhere.
+       - OOPs provide ability to simulate real-world event much more effectively. We can provide the solution
+         of real word problem if we are using the Object-Oriented Programming language.
+
+    - Advantage Of OOP
+       - Reusability
+       - Easy to understand
+       - Models the real world well
+       - Software complexity can be easily managed
+       - The principle of data hiding helps the programmer to build secure programs
+
+    - Disadvantage Of OOP
+       - Classes tends to be overly generated
+       - OOP program design is tricky
+       - Proper planning required
+       - Programmer should be well skilled
+
+   ----------------------------------------------------------------------------------
+
+   Four Pillars of OOPs:
+    1. Abstraction       [Abstract Methods/Virtual Functions, Abstract Classes, Interface & using Access Specifiers - Public, Private, Protected]
+    2. Encapsulation     [Accessing Private members using Getter & Setter]
+    3. Inheritance       [Super class(base class) , Sub class(derived class), Single, Multilevel, Hierarchical, Hybrid & Multiple]
+    4. Polymorphism      [Overloading, Overriding]
+
+   ----------------------------------------------------------------------------------
+
+*/

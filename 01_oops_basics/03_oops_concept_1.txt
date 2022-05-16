@@ -1,0 +1,53 @@
+/* 
+   Topics: OOPs Concepts Part-1 (JAVA)
+
+   ----------------------------------------------------------------------------------
+    OOPs Concepts in JAVA
+   ----------------------------------------------------------------------------------
+
+    > Classes & Objects
+       - Data Members & Methods
+       - Constructors
+         + Default Constructor (No Argument Constructor)
+         + Parameterised Constructor
+
+         + Copy Constructor          [Not supported in Java]
+         + Copy Assignment Operator  [Not supported in Java]
+         + Destructor                [Not supported in Java]
+
+         + Copy using Constructor
+         + Private Constructor
+
+       - This pointer
+       - static keyword
+
+    > Inheritance:
+       - Super Class & Sub Class
+       - extends keyword
+       - Single Inheritance
+       - Multilevel Inheritance
+       - Hierarchical Inheritance
+
+       - Hybrid Inheritance    [Not supported in Java]
+       - Multiple Inheritance  [Not supported in Java]
+
+    > Polymorphism:
+       - @override keyword
+       - Function Overloading (Compile Time Polymorphism)
+       - Function Overriding  (Run Time Polymorphism) 
+
+    > Association, Aggregation & Composition
+    > Cohesion & Coupling
+   ----------------------------------------------------------------------------------
+
+   > Questions: 
+       - Do constructor return any value ?
+       - Diamond Problem ?
+       - Why multiple inheritance is supported in c++ but not-supported  in java ?
+       - Can we overload main() method ?
+       - Can we override static() method ?
+
+   ----------------------------------------------------------------------------------
+
+
+*/

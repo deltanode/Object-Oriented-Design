@@ -1,0 +1,81 @@
+/* 
+   Topics: OOPs Concepts in C++ & JAVA
+
+   ----------------------------------------------------------------------------------
+    OOPs Concepts in C++
+   ----------------------------------------------------------------------------------
+
+    > Classes & Objects
+       - Data Members & Methods
+       - Constructors
+         + Default Constructor (No Argument Constructor)
+         + Parameterised Constructor
+         + Copy Constructor [Including Deep Copy & Shallow Copy]
+         + Copy Assignment Operator
+         + Destructor
+       - This pointer
+       - Initialization List & Const (const members, const functions & const parameters)
+       - Friend class & function 
+       - static
+
+    > Inheritance:
+       - Base Class & Derived Class
+       - Single Inheritance
+       - Multilevel Inheritance
+       - Hierarchical Inheritance
+       - Hybrid Inheritance
+       - Multiple Inheritance
+
+    > Polymorphism:
+       - Function Overloading (Compile Time Polymorphism)
+       - Function Overriding  (Run Time Polymorphism) 
+
+    > Encapsulation:
+       - Accessing Private members using Getter & Setter
+
+    > Abstraction:
+       - Virtual Function, Interface & Abstract Class
+       - Using Header Files
+       - Using Classes (using Access Specifiers - Public, Private, Protected)
+
+
+   ----------------------------------------------------------------------------------
+    OOPs Concepts in JAVA
+   ----------------------------------------------------------------------------------
+
+    > Classes & Objects
+       - Data Members & Methods
+       - Constructors
+         + Default Constructor (No Argument Constructor)
+         + Parameterised Constructor
+
+         + Copy Constructor          [Not supported in Java]
+         + Copy Assignment Operator  [Not supported in Java]
+         + Destructor                [Not supported in Java]
+
+         + Copy using Constructor
+         + Private Constructor
+
+       - This pointer
+       - static keyword
+
+    > Inheritance:
+       - Super Class & Sub Class
+       - extends keyword
+       - Single Inheritance
+       - Multilevel Inheritance
+       - Hierarchical Inheritance
+
+       - Hybrid Inheritance    [Not supported in Java]
+       - Multiple Inheritance  [Not supported in Java]
+
+    > Polymorphism:
+       - @override keyword
+       - Function Overloading (Compile Time Polymorphism)
+       - Function Overriding  (Run Time Polymorphism) 
+
+    > Association, Aggregation & Composition
+    > Cohesion & Coupling
+   ----------------------------------------------------------------------------------
+
+*/
